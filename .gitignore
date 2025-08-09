@@ -1,0 +1,14 @@
+# Ficheiros de Base de Dados
+*.db
+*.sqlite3
+
+# Ambiente Virtual do Python
+venv/
+*.venv/
+
+# Ficheiros de cache do Python
+__pycache__/
+*.pyc
+
+# Ficheiros temporários gerados pelo Plotly/ReportLab
+temp_*.png
