@@ -24,8 +24,6 @@ Este projeto foi criado para ajudar no controlo de finanças pessoais. Ele permi
 
 ## Screenshots
 
-*(Recomendo que você tire um screenshot da janela principal da aplicação e o adicione aqui. Para fazer isso, arraste e solte a imagem na caixa de texto enquanto edita o `README.md` no site do GitHub)*
-
 ![Screenshot da Aplicação Principal](/images/00001.jpg)
 
 ## Tecnologias Utilizadas
@@ -87,4 +85,3 @@ python gestor_despesas.py
 5.  **Apagar uma Despesa:** Clique numa ou mais despesas na tabela (use Ctrl+Click para selecionar várias) e clique no botão "Apagar Despesa Selecionada".
 
 ---
-Desenvolvido como parte de um projeto de aprendizagem guiada.
